@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "6267629335:AAFFm94n0bx0FGHwdu_biM6cTV1chDoOys8"
     APP_ID = "2432683"
     API_HASH = "5207eaf578a93dddd008144759b9ee99"
-    DATABASE_URL = "postgresql-120626-0.cloudclusters.net"
+    DATABASE_URL = "postgres://lcptrfqu:dn7RTW_gka9gO757fCSJRc0C_qTKc3bu@tiny.db.elephantsql.com/lcptrfqu"
     SUDO_USERS = "" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
